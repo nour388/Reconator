@@ -4,7 +4,7 @@ Documentation for Reconator
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/gokulapap/Reconator">
+  <a href="https://github.com/nour388/Reconator">
   <img src="./static/reconator.png" alt="reconator">
   </a>
   <br>
@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nour388/Reconator)
 
 ## 📋 Requirements
 
